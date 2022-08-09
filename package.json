@@ -1,12 +1,20 @@
 {
-    "name": "kurs-typescript",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "compile": "tsc --watch"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
+  "name": "kurs-typescript",
+  "version": "1.0.0",
+  "description": "## main",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deidrah/kurs-typescritp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deidrah/kurs-typescritp/issues"
+  },
+  "homepage": "https://github.com/deidrah/kurs-typescritp#readme"
 }
